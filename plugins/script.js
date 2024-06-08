@@ -74,7 +74,7 @@ function typeText(element, text) {
     }, 200);
 }
 
-const heroTextContent = 'Gia is Love';
+const heroTextContent =  Aishiki is Love';
 typeText(heroText, heroTextContent);
 
 const fontChangeInterval = setInterval(() => {
@@ -120,7 +120,7 @@ function toggleMusic() {
 
 const quotes = [
     "Baby, you're my love, my forevermore",
-    "Holding your hands standing near a shore.",
+    "Holding your hands standing near the school gate.",
     "Getting angry at me for silly little things.",
     "But that makes me love you more...",
     "I'll hold tight in moonless night",
